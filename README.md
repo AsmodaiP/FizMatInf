@@ -202,6 +202,6 @@
     + [Бот в телеграмме, скидывающий книги](http://t-do.ru/flibustafreebookbot)
     + [Годный подкаст о личной эффективности](https://willbedone.ru/)
     + [f.lux](https://justgetflux.com/) - приложение поможет сохранить зрение и улучшит сон
-    
- 
+    + [Опрос о самых полезных навыках] (https://goo.gl/forms/gmJia5uAUGk12hPu1)
+  
 
